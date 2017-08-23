@@ -5,7 +5,7 @@ import { readableDate } from './utils';
 
 // normal icon url
 function _iconImage(creator) {
-  return `http://cdn1.www.st-hatena.com/users/${creator.slice(0, 2)}/${creator}/profile.gif`;
+  return `http://dn1.www.st-hatena.com/users/${creator.slice(0, 2)}/${creator}/profile.gif`;
 }
 
 // fetch article from <content:encoded />
